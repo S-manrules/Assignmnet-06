@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Code Hunter.cpp
+c:\users\seamurp1\source\repos\code hunter\code hunter\code hunter.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  Code Hunter.vcxproj -> C:\Users\SEAMURP1\Source\Repos\Code Hunter\Debug\Code Hunter.exe
+  Code Hunter.vcxproj -> C:\Users\SEAMURP1\Source\Repos\Code Hunter\Debug\Code Hunter.pdb (Partial PDB)
